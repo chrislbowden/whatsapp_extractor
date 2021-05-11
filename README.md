@@ -13,4 +13,5 @@ These can then (hopefully) be transferred to an Android phone, and WhatsApp can 
 No idea how to get around paying for WazzapMigrator yet.
 
 To run:
-$ python3 extract.py
+
+    $ python3 extract.py
